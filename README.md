@@ -6,6 +6,8 @@ Click [here](https://poggit.pmmp.io/ci/xXNiceAssasinl0/CrateUI/CrateUI) To downl
 
 - [ ] Fix all Crates Items
 
+- [ ] amount
+
 # Finished:
 - [x] No Need FormAPI Plugin to work.
 
@@ -14,6 +16,8 @@ Click [here](https://poggit.pmmp.io/ci/xXNiceAssasinl0/CrateUI/CrateUI) To downl
 - [x] Broadcast Message on open Crate.
 
 - [x] Prefix Config
+
+- [x] /getkey <crate> <player>
 
 - [x] key Features
     - [x] Custom Key Name
@@ -43,5 +47,3 @@ Click [here](https://poggit.pmmp.io/ci/xXNiceAssasinl0/CrateUI/CrateUI) To downl
  * xXNiceYT - Main Developer.
  
  * Az928 - Items.
- 
- * CortexPE - CommandManager.
