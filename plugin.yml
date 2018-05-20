@@ -1,6 +1,6 @@
 name: CrateUI
 main: CrateUI\Main
-api: [3.0.0-ALPHA9, 3.0.0-ALPHA10]
+api: [3.0.0-ALPHA12]
 version: 1.0
 author: xXNiceYT
 
